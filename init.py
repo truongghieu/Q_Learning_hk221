@@ -1,7 +1,7 @@
 
-LEARNING_RATE = 0.1 # this is the best learning rate
-DISCOUNT = 0.4
-EPISODES = 20
+LEARNING_RATE = 0.0 # this is the best learning rate
+DISCOUNT = 0.9
+EPISODES = 400
 DONE = False
 MORE_REWARD = 5
 
