@@ -6,9 +6,10 @@ train_with_discount.py for train with DISCOUNT coefficients change from 0.5 to 0
 # Comment 
 The best Learning Rate is 0.1 in this case because it converges to a point but the more time we need to train in the first times 
 The larger Discount coefficients the more noise in fig but like the Learning Rate we don't need too much time to get the point of convergence 
+You can see clearly in /fig and /fig_discount folder 
 
 # FIG
-Here is two case above
+Here is two case above <br>
 ![Image](/fig/Action.png)
 
 ![Image](/fig_discount/Action.png)
