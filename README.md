@@ -8,7 +8,7 @@ The best Learning Rate is 0.1 in this case because it converges to a point but t
 The larger Discount coefficients the more noise in fig but like the Learning Rate we don't need too much time to get the point of convergence 
 
 # FIG
-Here is two case above
+Here is two case above <br>
 ![Image](/fig/Action.png)
 
 ![Image](/fig_discount/Action.png)
